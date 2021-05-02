@@ -1,5 +1,4 @@
-"parks": [
-        {
+{"parks": [        {
             "lat": 49.244314,
             "lng": 107.727786,
             "name": "Grasslands National Park",
@@ -14,7 +13,7 @@
         {
             "lat": 51.148135,
             "lng": -115.555819,
-            "name": Banff National Park",
+            "name": "Banff National Park",
             "url": "https://www.pc.gc.ca/en/pn-np/ab/banff"
         },
         {
@@ -40,12 +39,6 @@
             "lng": -72.772518,
             "name": "La Mauricie National Park",
             "url": "https://www.pc.gc.ca/en/pn-np/qc/mauricie"
-        },
-        {
-            "lat": 41.311082,
-            "lng": -72.962952,
-            "name": "Yale University",
-            "url": "http://www.yale.edu/"
         }
     ]
 }
