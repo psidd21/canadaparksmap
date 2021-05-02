@@ -1,0 +1,51 @@
+"parks": [
+        {
+            "lat": 49.244314,
+            "lng": 107.727786,
+            "name": "Grasslands National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/sk/grasslands"
+        },
+        {
+            "lat": 67.34522,
+            "lng": -66.008419,
+            "name": "Auyuittuq National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/nu/auyuittuq"
+        },
+        {
+            "lat": 51.148135,
+            "lng": -115.555819,
+            "name": Banff National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/ab/banff"
+        },
+        {
+            "lat": 53.712195,
+            "lng": -113.21224,
+            "name": "Elk Island National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/ab/elkisland"
+        },
+        {
+            "lat": 45.581511,
+            "lng": -64.989227,
+            "name": "Fundy National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/nb/fundy"
+        },
+        {
+            "lat": 49.434136,
+            "lng": -57.884707,
+            "name": "Gros Morne National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/nl/grosmorne"
+        },
+        {
+            "lat": 46.675136,
+            "lng": -72.772518,
+            "name": "La Mauricie National Park",
+            "url": "https://www.pc.gc.ca/en/pn-np/qc/mauricie"
+        },
+        {
+            "lat": 41.311082,
+            "lng": -72.962952,
+            "name": "Yale University",
+            "url": "http://www.yale.edu/"
+        }
+    ]
+}
